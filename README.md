@@ -10,13 +10,13 @@
 #### :sparkles: I am a Solidity/Rust/Web3/React Developer.
 ![I am a JS/TS/PHP/Dart/Java Developer.](https://github.com/happyxurde1003/happyxurde1003/blob/main/happyxurde.jpg)
 
-[![typescript](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
-[![typescript](https://img.shields.io/badge/React_Native-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
-[![typescript](https://img.shields.io/badge/Flutter-Expert-0063b0.svg?logo=flutter&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
-[![typescript](https://img.shields.io/badge/Node.js-Expert-26b547.svg?logo=node.js&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
-[![typescript](https://img.shields.io/badge/Solidity-Expert-0063b0.svg?logo=solidity&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
-[![typescript](https://img.shields.io/badge/Ethereum-Expert-0063b0.svg?logo=ethereum&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
-[![typescript](https://img.shields.io/badge/Rust-Expert-0063b0.svg?logo=rust&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
+[![typescript](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![typescript](https://img.shields.io/badge/React_Native-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![typescript](https://img.shields.io/badge/Flutter-Expert-0063b0.svg?logo=flutter&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![typescript](https://img.shields.io/badge/Node.js-Expert-26b547.svg?logo=node.js&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![typescript](https://img.shields.io/badge/Solidity-Expert-0063b0.svg?logo=solidity&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![typescript](https://img.shields.io/badge/Ethereum-Expert-0063b0.svg?logo=ethereum&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![typescript](https://img.shields.io/badge/Rust-Expert-0063b0.svg?logo=rust&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
 
 I value honesty most in my work. Do you need an honest developer who is faithful to your work and can communicate clearly, value relationship? Do you need someone who can anticipate options that eliminate unwanted things? My goal is to be your person.
 
@@ -49,13 +49,13 @@ I value honesty most in my work. Do you need an honest developer who is faithful
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Honesty's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ClickHere0521&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Honesty's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=happyxurde1003&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="ClickHere0521's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClickHere0521&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> 
+  <img alt="happyxurde1003's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyxurde1003&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> 
 </a>
 </p>
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/clickhere0521/count.svg" />
+  <img src="https://profile-counter.glitch.me/happyxurde1003/count.svg" />
 </p>
