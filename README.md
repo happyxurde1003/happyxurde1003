@@ -1,14 +1,14 @@
 <h3 align="center">
   Welcome to HappyXurde's profile!
-  <img src="https://github.com/happyxurde1003/happyxurde1003/blob/main/happyxurde.jpg" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/happyxurde1003/"><img src="https://github.com/happyxurde1003/happyxurde1003/blob/main/happyxurde.svg"></a>
 </p>
 
-#### :sparkles: I am a JS/TS/Dart/Java/Solidity/Web3/Rust Developer.
-![I am a JS/TS/PHP/Dart/Java Developer.](https://github.com/ClickHere0521/ClickHere0521/blob/main/back.jpg)
+#### :sparkles: I am a Solidity/Rust/Web3/React Developer.
+![I am a JS/TS/PHP/Dart/Java Developer.](https://github.com/happyxurde1003/happyxurde1003/blob/main/happyxurde.jpg)
 
 [![typescript](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
 [![typescript](https://img.shields.io/badge/React_Native-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/ClickHere0521)&nbsp;
