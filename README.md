@@ -17,7 +17,7 @@
 [![react](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
 [![node.js](https://img.shields.io/badge/Node.js-Expert-26b547.svg?logo=node.js&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
 
-I value honesty most in my work. Do you need an honest developer who is faithful to your work and can communicate clearly, value relationship? Do you need someone who can anticipate options that eliminate unwanted things? My goal is to be your person.
+Software engineer, decentralized application architect, certified Blockchain developer with expertise in smart contracts and decentralized applications development, also web development as well. Having strong knowledge of Solidity, JavaScript, TypeScript programming languages in particular. Has worked on blockchain projects as a developer, lead and consultant across numerous companies. Smart Contract / Ethereum / Solidity / C++ / Rust / React.js / Node.js / EVM Integration / Decentralized Application Development.
 
 ### 🛠 &nbsp;Tech Stack
 
