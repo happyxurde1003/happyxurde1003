@@ -7,23 +7,21 @@
   <a href="https://github.com/happyxurde1003/"><img src="https://github.com/happyxurde1003/happyxurde1003/blob/main/happyxurde.svg"></a>
 </p>
 
-#### :sparkles: I am a Solidity/Rust/Web3/React Developer.
+#### :sparkles: I am a Solidity/Rust/Web3/Smart Contract Developer.
 ![I am a JS/TS/PHP/Dart/Java Developer.](https://github.com/happyxurde1003/happyxurde1003/blob/main/happyxurde.jpg)
 
-[![typescript](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
-[![typescript](https://img.shields.io/badge/React_Native-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
-[![typescript](https://img.shields.io/badge/Flutter-Expert-0063b0.svg?logo=flutter&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
-[![typescript](https://img.shields.io/badge/Node.js-Expert-26b547.svg?logo=node.js&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
-[![typescript](https://img.shields.io/badge/Solidity-Expert-0063b0.svg?logo=solidity&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
-[![typescript](https://img.shields.io/badge/Ethereum-Expert-0063b0.svg?logo=ethereum&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
-[![typescript](https://img.shields.io/badge/Rust-Expert-0063b0.svg?logo=rust&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![solidity](https://img.shields.io/badge/Solidity-Expert-0063b0.svg?logo=solidity&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![rust](https://img.shields.io/badge/Rust-Expert-0063b0.svg?logo=rust&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![ethereum](https://img.shields.io/badge/Ethereum-Expert-0063b0.svg?logo=ethereum&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![binance](https://img.shields.io/badge/Binance-Expert-fcd535.svg?logo=binance&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![react](https://img.shields.io/badge/React-Expert-0063b0.svg?logo=react&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
+[![node.js](https://img.shields.io/badge/Node.js-Expert-26b547.svg?logo=node.js&logoWidth=20)](https://github.com/happyxurde1003)&nbsp;
 
 I value honesty most in my work. Do you need an honest developer who is faithful to your work and can communicate clearly, value relationship? Do you need someone who can anticipate options that eliminate unwanted things? My goal is to be your person.
 
 ### 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
